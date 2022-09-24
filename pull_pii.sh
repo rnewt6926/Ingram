@@ -7,6 +7,6 @@ then
 fi
 
 smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/www/html/dvwa/hackable/uploads; get PII.zip' -W HACKYSOC -U wier%frantic-Folly3 
-chmod 775 /var/www/html/dvwa/hackable/uploads/PII.zip
+chmod 775 '/var/www/html/dvwa/hackable/uploads/PII.zip'
 
 echo 'Finished'
