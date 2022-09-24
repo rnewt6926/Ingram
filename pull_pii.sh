@@ -2,7 +2,7 @@
 
 if [[ -f "/var/www/html/dvwa/hackable/uploads/PII.zip" ]]
 then
-    rm "/var/www/html/dvwa/hackable/uploads/PII.zip"
+    rm -f "/var/www/html/dvwa/hackable/uploads/PII.zip"
     echo "PII.zip Was Deleted"
 fi
 
