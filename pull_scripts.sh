@@ -7,7 +7,7 @@ then
 fi
 
 cd /var/tmp
-wget https://github.com/rnewt6926/Ingram/raw/main/pull_pii.zip
+wget https://github.com/rnewt6926/Ingram/raw/main/pull_pii.sh
 chmod 775 pull_scripts.sh
 
 echo "Done"
