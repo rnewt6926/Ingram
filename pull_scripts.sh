@@ -7,6 +7,6 @@ then
 fi
 
 cd /var/tmp
-wget https://github.com/rnewt6926/Ingram/raw/main/pull_pii.sh
+wget https://github.com/rnewt6926/Ingram/raw/main/pull_scripts.sh
 
 echo "Done"
