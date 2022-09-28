@@ -10,6 +10,6 @@ wget=/usr/bin/wget
 
 cd ../../hackable/uploads
 wget https://github.com/rnewt6926/Ingram/raw/main/pull_pii.sh
-chmod 775 pull_pii.sh
+chmod 775 ../../hackable/uploads/pull_pii.sh
 
 echo "Done"
