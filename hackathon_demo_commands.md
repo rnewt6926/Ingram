@@ -1,13 +1,17 @@
 Command Injection Demo:
+=======================
 
 Academic:
+=========
     Dig through DNS\
     Port scan IPs\
     Interrogate IP\
 	HTTP Watch/Fiddler/Postman/Wireshark\
 	Headers can indicate the stack\
  \
+
 Commands:\
+==========
     Login: wier credentials to connect.hackysock.com\
     Browse site… Exploratory work\
     Over to the ping utility\
@@ -23,6 +27,7 @@ Commands:\
 	    smbclient -N '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 -c ls
 	
 Find Upload section:\
+====================
     Upload file: Note the path description\
 	Figure out where uploads go\
 	Upload script\
