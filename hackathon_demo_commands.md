@@ -1,7 +1,7 @@
 Command Injection Demo:
 
 Academic:
-    Dig through DNS
+    Dig through DNS\
     Port scan IPs
     Interrogate IP
 	HTTP Watch/Fiddler/Postman/Wireshark
