@@ -20,7 +20,7 @@ Commands:\
 	    which nmap\
 	    nmap -sP 192.168.122.1/24\
 	    namp -p 135 192.168.122.7\
-	    smbclient -N '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 -c ls\
+	    smbclient -N '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 -c ls
 	
 Find Upload section:\
     Upload file: Note the path description\
@@ -31,12 +31,12 @@ Find Upload section:\
 	Execute script\
 		../../hackable/uploads/pull_scripts.sh\
 	Show all the scripts that were pulled down from GitHub\
-\
-* It should be apparent at this point that I own the box so….*\
-\
+
+* It should be apparent at this point that I own the box so…\
+
 Drop to shell to show rest of demo and malware deployment.\
 	Execute pii script\
 	Show pii data pulled from windows machine\
-	\
-    
+	
+
 	
