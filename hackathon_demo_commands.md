@@ -25,6 +25,7 @@ Commands:
 	    nmap -sP 192.168.122.1/24
 	    namp -p 135 192.168.122.7
 	    smbclient -N '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 -c ls
+        smbclient -N '//192.168.122.7/Private_Files' -W HACKYSOC -U wier%frantic-Folly3 -c ls
 	
 Find Upload section:
 ====================
