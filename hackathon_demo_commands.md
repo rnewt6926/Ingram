@@ -30,7 +30,7 @@ Find Upload section:\
 		chmod 775 ../../hackable/uploads/pull_scripts.sh\
 	Execute script\
 		../../hackable/uploads/pull_scripts.sh\
-	Show all the scripts that were pulled down from GitHub\
+	Show all the scripts that were pulled down from GitHub
 
 * It should be apparent at this point that I own the box so…
 
