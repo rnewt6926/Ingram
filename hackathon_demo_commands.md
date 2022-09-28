@@ -28,19 +28,19 @@ Commands:
 	
 Find Upload section:
 ====================
-    Upload file: Note the path description\
-	Figure out where uploads go\
-	Upload script\
-	CHMOD script\
-		chmod 775 ../../hackable/uploads/pull_scripts.sh\
-	Execute script\
-		../../hackable/uploads/pull_scripts.sh\
+    Upload file: Note the path description
+	Figure out where uploads go
+	Upload script
+	CHMOD script
+		chmod 775 ../../hackable/uploads/pull_scripts.sh
+	Execute script
+		../../hackable/uploads/pull_scripts.sh
 	Show all the scripts that were pulled down from GitHub
 
 Drop to Shell:
 =============
-Drop to shell to show rest of demo and malware deployment.\
-	Execute pii script\
+Drop to shell to show rest of demo and malware deployment.
+	Execute pii script
 	Show pii data pulled from windows machine
 	
 
