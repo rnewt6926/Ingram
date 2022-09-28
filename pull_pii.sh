@@ -12,10 +12,10 @@
 # 
 
 
-smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; get PII.zip.ibkngP' -W HACKYSOC -U wier%frantic-Folly3 
-chmod 775 '/var/tmp/PII.zipibkngP'
+smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; get PII.zip' -W HACKYSOC -U wier%frantic-Folly3 
+chmod 775 '/var/tmp/PII'
 
-smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; get rogeradamsCV.doc.49t4' -W HACKYSOC -U wier%frantic-Folly3
-chmod 775 '/var/tmp/rogeradamsCV.doc.49t4'
+smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; get rogeradamsCV.doc' -W HACKYSOC -U wier%frantic-Folly3
+chmod 775 '/var/tmp/rogeradamsCV.doc'
 
 echo 'Finished'
