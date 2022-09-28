@@ -8,9 +8,9 @@ Academic:
     Interrogate IP\
 	HTTP Watch/Fiddler/Postman/Wireshark\
 	Headers can indicate the stack\
- \
 
-Commands:\
+
+Commands:
 ==========
     Login: wier credentials to connect.hackysock.com\
     Browse site… Exploratory work\
@@ -26,7 +26,7 @@ Commands:\
 	    namp -p 135 192.168.122.7\
 	    smbclient -N '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 -c ls
 	
-Find Upload section:\
+Find Upload section:
 ====================
     Upload file: Note the path description\
 	Figure out where uploads go\
@@ -37,7 +37,8 @@ Find Upload section:\
 		../../hackable/uploads/pull_scripts.sh\
 	Show all the scripts that were pulled down from GitHub
 
-* It should be apparent at this point that I own the box so…
+Drop to Shell
+=============
 
 Drop to shell to show rest of demo and malware deployment.\
 	Execute pii script\
