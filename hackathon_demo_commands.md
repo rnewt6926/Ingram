@@ -37,7 +37,7 @@ Find Upload section:
 		../../hackable/uploads/pull_scripts.sh
 	Show all the scripts that were pulled down from GitHub
 
-== Drop to Shell:
+## Drop to Shell:
 '''
 Show rest of demo and malware deployment.
 	Execute pii script
