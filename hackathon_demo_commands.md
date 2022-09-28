@@ -3,11 +3,11 @@ Command Injection Demo:
 
 Academic:
 =========
-    Dig through DNS\
-    Port scan IPs\
-    Interrogate IP\
-	HTTP Watch/Fiddler/Postman/Wireshark\
-	Headers can indicate the stack\
+    Dig through DNS
+    Port scan IPs
+    Interrogate IP
+	HTTP Watch/Fiddler/Postman/Wireshark
+	Headers can indicate the stack
 
 
 Commands:
