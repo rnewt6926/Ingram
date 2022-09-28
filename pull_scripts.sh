@@ -1,5 +1,7 @@
 #!/bin/bash
 
+wget=/usr/bin/wget
+
 # if [[ -f "/var/tmp/pull_scripts.sh" ]]
 # then
 #     rm -f "/var/tmp/pull_scripts.sh"
