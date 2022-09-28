@@ -32,7 +32,7 @@ Find Upload section:\
 		../../hackable/uploads/pull_scripts.sh\
 	Show all the scripts that were pulled down from GitHub\
 
-* It should be apparent at this point that I own the box so…\
+* It should be apparent at this point that I own the box so…
 
 Drop to shell to show rest of demo and malware deployment.\
 	Execute pii script\
