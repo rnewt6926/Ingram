@@ -39,6 +39,7 @@ Find Upload section:
 
 Drop to Shell:
 =============
+'''
 Show rest of demo and malware deployment.
 	Execute pii script
 	Show pii data pulled from windows machine
