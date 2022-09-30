@@ -38,6 +38,8 @@ Newton: \
         Ransom \
         Wait - Pass to Wier \
 
+“The cyberthreat landscape has changed. Web attacks that were once separate and distinct have come together in a continuous and integrated cycle of cybercrime. One kind of attack fuels another, propagating and prolonging an attack lifecycle that hits consumers everywhere along their digital journey — and web apps are a prime target.”
+
 Wier: \
     Need to hire someone \
     Open Word - Recent Docs - Narrative \
