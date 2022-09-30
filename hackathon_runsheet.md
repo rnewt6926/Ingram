@@ -24,7 +24,7 @@ Phishing lecture \
         Examples - Topical, World Events \ 
         Credential Stuffing talking points - Credential Re-use \
         What do I do with those credentials \
-        DarkMArket, Silk Road, Sheep, Pandora \
+        DarkMarket, Silk Road, TorMarket \
         Demonstrate \
 Newton: \
     Recon: \
