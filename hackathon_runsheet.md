@@ -10,13 +10,13 @@ Set the agenda
     Command & Control - Victim/Target opens infected doc \
     Actions on Objectives - Steal PII / RansomWare \
 
-Runsheet \
+Runsheet 
 
-Intros: Mike Wier \
+Intros: Mike Wier 
 
-Hype Guy: Wier \
+Hype Guy: Wier 
 
-Pearl:  \
+Pearl:  
 
 Phishing lecture \
         Types of attacks \
