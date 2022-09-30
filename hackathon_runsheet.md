@@ -17,7 +17,8 @@ Intros: Mike Wier \
 Hype Guy: Wier \
 
 Pearl:  \
-    Phishing lecture \
+
+Phishing lecture \
         Types of attacks \
         Tools used - NexPhisher on Kali \
         Examples - Topical, World Events \ 
