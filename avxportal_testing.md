@@ -7,14 +7,15 @@
 
 Use Cases:
 
-• F5 device upgrades & CVE Reporting
-• Canary-Based Deployment
-• Build and Application View of New Load Balancing Services
-• Golden Config Compliance
-• Blue-Green Based Deployment
-• Visibility into Brownfield Infrastructure
-• LBaaS (Load Balancing as a Service) across hybrid infrastructure
-• Certificate Management on F5s (and other network components)
+• F5 device upgrades & CVE Reporting  
+• Canary-Based Deployment  
+• Build and Application View of New Load Balancing Services  
+• Golden Config Compliance  
+• Blue-Green Based Deployment  
+• Visibility into Brownfield Infrastructure  
+• LBaaS (Load Balancing as a Service) across hybrid infrastructure  
+• Certificate Management on F5s (and other network components)  
+
 
 
 
