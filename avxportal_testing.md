@@ -16,20 +16,18 @@ Use Cases:
 • LBaaS (Load Balancing as a Service) across hybrid infrastructure  
 • Certificate Management on F5s (and other network components)  
 
+  
+Worflows - Notes:  
+  
+## Configuration Management  
 
+* `Backup Configuration`
+  * Works as expected  
+  * Creating, Restoring, Comparing and Managing backups is straight forward  
 
-
-
-https://github.com/erkac/f5-demo-lab
-
-Need to build these...
-
-## AS3 Folder
-
-Basic examples of F5 Automation Toolchain - AS3 to configure Application Services.
-* `./AS3/as3-dvwa.json`
-  * Damn Vulnerable Web Application Running in F5 LAMP Server
-* `./AS3/as3-forwarding.json`
+## F5 Big-IP System  
+  
+* `Golden Config Compliance`  
   * Generic L3 Forwarding VS Server
 * `./AS3/as3-petstore-waf.json`
   * [Swagger Petstore](https://petstore.swagger.io/) with [Declarative WAF Policy](https://devcentral.f5.com/s/articles/Advanced-WAF-v16-0-Declarative-API)
