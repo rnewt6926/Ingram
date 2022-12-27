@@ -1,11 +1,24 @@
-# Appviewx Portal Beta
+# Appviewx SaaS Portal Beta
 
 > ADC+ Appviewx SaaS beta
 > https://ingrammicro-try.appvx.com/appviewx/login
 
 
 
-Below is from:
+Use Cases:
+
+• F5 device upgrades & CVE Reporting
+• Canary-Based Deployment
+• Build and Application View of New Load Balancing Services
+• Golden Config Compliance
+• Blue-Green Based Deployment
+• Visibility into Brownfield Infrastructure
+• LBaaS (Load Balancing as a Service) across hybrid infrastructure
+• Certificate Management on F5s (and other network components)
+
+
+
+
 https://github.com/erkac/f5-demo-lab
 
 Need to build these...
