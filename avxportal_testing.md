@@ -29,7 +29,7 @@ Worflows - Notes:
   
 * `Golden Config Compliance`  
   * Works as expected  
-	* Needs documentation and examples for non-default remediation commands  
+    Needs documentation and examples for non-default remediation commands  
 
 * `F5 BIG-IP CVE_Reporting`
   * Works as expected  
@@ -44,7 +44,7 @@ Worflows - Notes:
 
 
 
-  
+
 
 
 ## DO Folder
