@@ -28,13 +28,13 @@ Worflows - Notes:
 ## F5 Big-IP System  
   
 * `Golden Config Compliance`  
-  * Works as expected  
-    Needs documentation and examples for non-default remediation commands  
+  * Works as expected
+  * Needs documentation and examples for non-default remediation commands  
 
 * `F5 BIG-IP CVE_Reporting`
-  * Works as expected  
-	* Needs copy/paste/link function of CVE URL field  
-	* Needs description of CVE in report not just the CVE number  
+  * Works as expected
+	* Needs copy/paste/link function of CVE URL field
+	* Needs description of CVE in report not just the CVE number
 
 
 
