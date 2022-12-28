@@ -24,6 +24,8 @@ Worflows - Notes:
 * `Backup Configuration`
   * Works as expected  
   * Creating, Restoring, Comparing and Managing backups is straight forward  
+  * Fetch config needed after any configuration change?
+  * After adding device it remains on device details... should go to inventory list.
 
 ## F5 Big-IP System  
   
@@ -62,6 +64,18 @@ Worflows - Notes:
   * Why does it flip fields on redirect check box?
   * Workflow hung while loading keys. (create new)
   * Would not take 4-part FQDN (e.g. avx.wideip.domain.com) as FQDN only 3-part
+
+* `Disable and Delete Unused VIP`
+  * Workflow Empty - Failed/Success
+
+* `Disable Pool Member`
+  * Why must I select a VS? Some pools exist in multiple VS or not at all e.g. iRule selected pools
+  * Only see VIPs in Common partition - Tested this multiple times
+  * Logic and usability is flawed.  Add button? /update. Kludgy
+  * Saw various errors on multiple tests
+    * Prevalidation Failed - Device memory exceeded threshold
+    * java.util.ArrayList error & others (seems buggy)
+
 
 
 
