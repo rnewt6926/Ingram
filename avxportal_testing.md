@@ -77,9 +77,34 @@
     * java.util.ArrayList error & others (seems buggy)
 
 
+## F5 Big-IP AS3
 
+* `Create App Service`
+  * Worked as expected with limited flexibility
+  * Needs ability to import/create custom AS3/FAST Templates
 
+* `Modify LTM Service`
+  * To modify a service you need the details so why the extra step(s)? Get Virtuals Get Pools
+  * Unable to select pool until you Get VS
+  * No bulk edit - e.g. port change on multiple pool members
+  * Allows the entry of duplicate pool members but fails after submission - Needs entry error checking
+  * Additional details (SNAT, Monitor, etc.) all reset to none when modifying forcing re-selection
 
+* `Fetch App Services`
+  * Should be allowed to pull all (or selected) AS3 partitions
+  * This workflow simply dumps the json into the page. What's the value here?
+
+* `Delete Application Services`
+  * Doesn't see all apps - One device it didn't see any of three AS3 apps
+  * Doesn't remove partition
+  * Too many steps to pull info from the device (get vs, get pools, etc.)
+
+## F5 Big-IP GTM
+
+* `Modify GTM WideIP`
+  * Did not work as expected
+  * Pool member change not relected after successful submission
+  * Too many steps to make a simple change IMHO
 
 
 
