@@ -28,9 +28,24 @@ Worflows - Notes:
 ## F5 Big-IP System  
   
 * `Golden Config Compliance`  
-  * Generic L3 Forwarding VS Server
-* `./AS3/as3-petstore-waf.json`
-  * [Swagger Petstore](https://petstore.swagger.io/) with [Declarative WAF Policy](https://devcentral.f5.com/s/articles/Advanced-WAF-v16-0-Declarative-API)
+  * Works as expected  
+	* Needs documentation and examples for non-default remediation commands  
+
+* `F5 BIG-IP CVE_Reporting`
+  * Works as expected  
+	* Needs copy/paste/link function of CVE URL field  
+	* Needs description of CVE in report not just the CVE number  
+
+
+
+
+
+
+
+
+
+  
+
 
 ## DO Folder
 
