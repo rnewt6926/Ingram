@@ -47,13 +47,15 @@ Worflows - Notes:
 	* Works as expected
 	* Allows upgrade to 17.x but then can't manage that version - FYI
 	* Needs workflow to manage images on devices. /shared/images
-	* Upgraded to v16 - Holds @ Object Count: /<Proceed/> (Is there a /y option here?)
-	Holds at license check… in spite of set to auto.
-	After failure it leaves device off-line. By design? Option?
-	Cannot use existing volume only create new one.
-		This means a failed install has orphaned volumes.
-	After upgrade had to fetch config? Wasn't available for other workflows until updated (fetched)
-		e.g. Enable pool member.
+	* Upgraded to v16 - Holds @ Object Count to proceed - Needs a /y option here?
+	* Held at license check… in spite of set to auto
+	* After failure it leaves device off-line. By design? Option?
+	* Cannot use existing volume only create new one?
+	* This means a failed install has orphaned volumes
+	* After upgrade had to fetch config? Wasn't available for other workflows until updated (fetched)
+	* Enable pool member
+
+  
 
 
 
