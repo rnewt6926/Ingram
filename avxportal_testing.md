@@ -53,7 +53,17 @@ Worflows - Notes:
   * Cannot use existing volume only create new one?
   * This means a failed install has orphaned volumes
   * After upgrade had to fetch config? Wasn't available for other workflows until updated (fetched)
-  * Enable pool member
+  * e.g. Enable pool member
+
+## F5 Big-IP LTM
+
+* `Create Advanced VIP`
+  * Create A record should have BigIP as a Vendor (i.e. WideIP option)
+  * Why does it flip fields on redirect check box?
+  * Workflow hung while loading keys. (create new)
+  * Would not take 4-part FQDN (e.g. avx.wideip.domain.com) as FQDN only 3-part
+
+
 
 
 
