@@ -42,21 +42,18 @@ Worflows - Notes:
 	*	Slow process. How bigis the file? Does it pull entire DB each time or just the deltas?
 
 * `Software Upgrades`
-  * If there is not enough HDD it still creates volume.
-	* Needs workflow to remove inactive volumes?
-	* Works as expected
-	* Allows upgrade to 17.x but then can't manage that version - FYI
-	* Needs workflow to manage images on devices. /shared/images
-	* Upgraded to v16 - Holds @ Object Count to proceed - Needs a /y option here?
-	* Held at license check… in spite of set to auto
-	* After failure it leaves device off-line. By design? Option?
-	* Cannot use existing volume only create new one?
-	* This means a failed install has orphaned volumes
-	* After upgrade had to fetch config? Wasn't available for other workflows until updated (fetched)
-	* Enable pool member
-
-  
-
+* If there is not enough HDD it still creates volume.
+* Needs workflow to remove inactive volumes?
+* Works as expected
+* Allows upgrade to 17.x but then can't manage that version - FYI
+* Needs workflow to manage images on devices. /shared/images
+* Upgraded to v16 - Holds @ Object Count to proceed - Needs a /y option here?
+* Held at license check… in spite of set to auto
+* After failure it leaves device off-line. By design? Option?
+* Cannot use existing volume only create new one?
+* This means a failed install has orphaned volumes
+* After upgrade had to fetch config? Wasn't available for other workflows until updated (fetched)
+* Enable pool member
 
 
 
