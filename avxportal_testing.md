@@ -33,13 +33,13 @@ Worflows - Notes:
 
 * `F5 BIG-IP CVE_Reporting`
   * Works as expected
-	* Needs copy/paste/link function of CVE URL field
-	* Needs description of CVE in report not just the CVE number
+  * Needs copy/paste/link function of CVE URL field
+  * Needs description of CVE in report not just the CVE number
 
 * `Fetch_F5 BIG-IP CVEs`
   * Works as expected
-	* How often? Should this be automatically scheduled?
-	*	Slow process. How bigis the file? Does it pull entire DB each time or just the deltas?
+  * How often? Should this be automatically scheduled?
+  *	Slow process. How bigis the file? Does it pull entire DB each time or just the deltas?
 
 * `Software Upgrades`
   * If there is not enough HDD it still creates volume.
